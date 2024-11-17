@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 5aff5c0240ef30d488d796294f18da46
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - giganticExplosionPrefab_: {fileID: 1569341314721350125, guid: 02f4afcd9bdc2b1488b11101230686c4, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
